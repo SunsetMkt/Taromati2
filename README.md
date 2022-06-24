@@ -1,5 +1,5 @@
-[![total lines of ghost](https://shields-staging.herokuapp.com:/tokei/lines/github/Taromati2/ghost?label=total%20lines%20of%20ghost)]( https://github.com/Taromati2/ghost )
-[![number of shells](https://shields-staging.herokuapp.com:/github/directory-file-count/Taromati2/shell?label=number%20of%20shells&type=dir)]( https://github.com/Taromati2/Taromati2/releases/tag/shell_list )
+[![total lines of ghost](https://img.shields.io/tokei/lines/github/Taromati2/ghost?label=total%20lines%20of%20ghost)]( https://github.com/Taromati2/ghost )
+[![number of shells](https://img.shields.io/github/directory-file-count/Taromati2/shell?label=number%20of%20shells&type=dir)]( https://github.com/Taromati2/Taromati2/releases/tag/shell_list )
 
 [![ghost last commit](https://img.shields.io/github/last-commit/Taromati2/ghost?label=ghost%20last%20commit)]( https://github.com/Taromati2/ghost )
 [![stable mirror last update](https://img.shields.io/github/last-commit/Taromati2/stable-mirror?label=stable%20mirror%20last%20update)]( https://github.com/Taromati2/stable-mirror )

@@ -15,8 +15,6 @@
 更新时，已有机能可正常使用  
 如若手动更新，请右键人格并点击'在线更新'按钮  
 另外，视地区的不同，你可能需要使用加速器来获得更好的更新体验  
-### **对国内用户：可以在双击人格->设定->帮助->修改更新源->改为`https://e-tek.coding.net/p/Taromati2/d/stable-mirror/git/raw/master/Taromati2/`后再次尝试**  
-[点此一键修改更新源至E-tek.coding]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fe-tek.coding.net%2Fp%2FTaromati2%2Fd%2Fstable-mirror%2Fgit%2Fraw%2Fmaster%2FTaromati2%2F )  
 若需人工更新，请自行下载镜像项目中的Taromati2文件夹，并对ghost/Taromati2进行覆盖  
 [点此下载镜像项目文件夹]( https://github.com/Taromati2/stable-mirror/archive/master.zip )  
 

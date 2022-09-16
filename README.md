@@ -107,6 +107,9 @@ tox/email/oicq渠道优先
 Discord：[Taromati2]( https://bit.ly/TaroDiscordServer )  
 OICQ/QQ：[717638871]( https://bit.ly/TaroOicqGroup )  
 
+### Star History  
+[![Star History Chart](https://api.star-history.com/svg?repos=Taromati2/Taromati2)](https://star-history.com/#Taromati2/Taromati2)  
+
 ### [关于我]( https://steve02081504.github.io/about )  
 请点击上方标题  
 
